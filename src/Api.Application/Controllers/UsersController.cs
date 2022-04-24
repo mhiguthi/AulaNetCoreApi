@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Application.Controllers
 {
-    // http://localhost:5000/api/users
+    // http://localhost:5000/api/users - Para acessar o get
     [Route("api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
