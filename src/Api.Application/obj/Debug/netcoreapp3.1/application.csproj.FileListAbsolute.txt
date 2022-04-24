@@ -1,0 +1,7 @@
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache

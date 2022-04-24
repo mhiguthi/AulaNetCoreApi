@@ -1,0 +1,16 @@
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

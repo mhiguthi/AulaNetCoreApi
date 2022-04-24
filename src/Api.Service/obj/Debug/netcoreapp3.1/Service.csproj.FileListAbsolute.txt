@@ -1,0 +1,15 @@
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

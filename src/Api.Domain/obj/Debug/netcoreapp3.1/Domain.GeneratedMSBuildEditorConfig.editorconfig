@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Domain
+build_property.ProjectDir = m:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\

@@ -1,0 +1,10 @@
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+M:\Documentos\Trilha de estudos\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
