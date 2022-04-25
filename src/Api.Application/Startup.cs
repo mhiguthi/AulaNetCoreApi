@@ -24,7 +24,7 @@ namespace Api.Application
             services.AddMvc();
             services.AddControllers();
 
-            /*  services.AddSwaggerGen(c =>
+            services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
@@ -44,7 +44,7 @@ namespace Api.Application
                         Url = new Uri("http://www.google.com")
                     }
                 });
-            }); */
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -64,21 +64,21 @@ namespace Api.Application
                 endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}");
             });
 
-            /*  app.UseSwagger();
-             app.UseSwaggerUI(c =>
-             {
-                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Curso de API com AspNetCore 3.1");
-                 c.RoutePrefix = string.Empty;
-             });
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Curso de API com AspNetCore 3.1");
+                c.RoutePrefix = string.Empty;
+            });
 
-             app.UseRouting();
+            app.UseRouting();
 
-             app.UseAuthorization();
+            app.UseAuthorization();
 
-             app.UseEndpoints(endpoints =>
-             {
-                 endpoints.MapControllers();
-             });*/
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
 
     }
